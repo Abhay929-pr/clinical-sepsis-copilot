@@ -1,0 +1,17 @@
+# Python
+venv/
+*.pyc
+__pycache__/
+
+# Data (NEVER upload sensitive data to public repos)
+data/
+*.csv
+*.zip
+*.parquet
+
+# IDE
+.vscode/
+.idea/
+
+# Mac
+.DS_Store
